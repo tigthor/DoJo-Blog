@@ -1,8 +1,8 @@
-# New Project
+# DoJo Blog
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨  React Dojo Blog that use fast bundling technologies like Snowpack and Skypack.
 
-## Available Scripts
+## How To run the project
 
 ### npm start
 
